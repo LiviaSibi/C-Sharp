@@ -1,0 +1,11 @@
+C:\Users\52850852848\Documents\Desafios\Sequencia100\bin\Debug\netcoreapp2.2\Sequencia100.deps.json
+C:\Users\52850852848\Documents\Desafios\Sequencia100\bin\Debug\netcoreapp2.2\Sequencia100.runtimeconfig.json
+C:\Users\52850852848\Documents\Desafios\Sequencia100\bin\Debug\netcoreapp2.2\Sequencia100.runtimeconfig.dev.json
+C:\Users\52850852848\Documents\Desafios\Sequencia100\bin\Debug\netcoreapp2.2\Sequencia100.dll
+C:\Users\52850852848\Documents\Desafios\Sequencia100\bin\Debug\netcoreapp2.2\Sequencia100.pdb
+C:\Users\52850852848\Documents\Desafios\Sequencia100\obj\Debug\netcoreapp2.2\Sequencia100.csprojAssemblyReference.cache
+C:\Users\52850852848\Documents\Desafios\Sequencia100\obj\Debug\netcoreapp2.2\Sequencia100.csproj.CoreCompileInputs.cache
+C:\Users\52850852848\Documents\Desafios\Sequencia100\obj\Debug\netcoreapp2.2\Sequencia100.AssemblyInfoInputs.cache
+C:\Users\52850852848\Documents\Desafios\Sequencia100\obj\Debug\netcoreapp2.2\Sequencia100.AssemblyInfo.cs
+C:\Users\52850852848\Documents\Desafios\Sequencia100\obj\Debug\netcoreapp2.2\Sequencia100.dll
+C:\Users\52850852848\Documents\Desafios\Sequencia100\obj\Debug\netcoreapp2.2\Sequencia100.pdb

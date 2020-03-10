@@ -1,0 +1,54 @@
+Trocar Lampada
+
+sua lampada está funcionando? 
+   sim - resolvido
+   não - próxima pergunta
+
+O interrupitor está ligado?
+   sim e não estiver funcionando continue no proximo passo
+   se não ligue e veja se funciona, caso não funcionar siga o proximo passo
+
+A lampada está com mal contato?
+   se sim ajuste a lampada
+   se não siga o proximo passo
+
+Tem energia na sua casa?
+   se sim e não funcionar siga o proximo passo
+   se não espere a energia voltar
+
+Caso a sua lampada não tenha funcionado ainda compre uma nova e troque (volte ao inicio)
+   
+
+
+
+
+
+Escovar os dentes
+
+você tem uma escova?
+  sim- proximo passo
+  não- compre uma
+
+tem pasta de dente?
+  sim- proximo passo
+  não- compre uma
+
+tem fio dental?
+  sim- proximo passo
+  não- compre uma
+
+ir ao banheiro
+
+passe fio dental entre os dentes e jogue fora após usar
+
+coloque pasta na escova de dente
+
+abra a boca e escove o interior da sua boca com a escova
+
+após escovar enxague a boca com água limpa
+
+cuspa o resto do enxague na pia
+
+sorria
+
+

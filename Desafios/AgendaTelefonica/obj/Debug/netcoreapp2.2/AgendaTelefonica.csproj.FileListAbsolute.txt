@@ -1,0 +1,4 @@
+C:\Users\52850852848\Documents\Desafios\AgendaTelefonica\obj\Debug\netcoreapp2.2\AgendaTelefonica.csprojAssemblyReference.cache
+C:\Users\52850852848\Documents\Desafios\AgendaTelefonica\obj\Debug\netcoreapp2.2\AgendaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\52850852848\Documents\Desafios\AgendaTelefonica\obj\Debug\netcoreapp2.2\AgendaTelefonica.AssemblyInfoInputs.cache
+C:\Users\52850852848\Documents\Desafios\AgendaTelefonica\obj\Debug\netcoreapp2.2\AgendaTelefonica.AssemblyInfo.cs

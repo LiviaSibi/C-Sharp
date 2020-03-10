@@ -1,0 +1,11 @@
+C:\Users\52850852848\Documents\Desafios\VerificacaoTriangulo\obj\Debug\netcoreapp2.2\VerificacaoTriangulo.csprojAssemblyReference.cache
+C:\Users\52850852848\Documents\Desafios\VerificacaoTriangulo\obj\Debug\netcoreapp2.2\VerificacaoTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\52850852848\Documents\Desafios\VerificacaoTriangulo\obj\Debug\netcoreapp2.2\VerificacaoTriangulo.AssemblyInfoInputs.cache
+C:\Users\52850852848\Documents\Desafios\VerificacaoTriangulo\obj\Debug\netcoreapp2.2\VerificacaoTriangulo.AssemblyInfo.cs
+C:\Users\52850852848\Documents\Desafios\VerificacaoTriangulo\bin\Debug\netcoreapp2.2\VerificacaoTriangulo.deps.json
+C:\Users\52850852848\Documents\Desafios\VerificacaoTriangulo\bin\Debug\netcoreapp2.2\VerificacaoTriangulo.runtimeconfig.json
+C:\Users\52850852848\Documents\Desafios\VerificacaoTriangulo\bin\Debug\netcoreapp2.2\VerificacaoTriangulo.runtimeconfig.dev.json
+C:\Users\52850852848\Documents\Desafios\VerificacaoTriangulo\bin\Debug\netcoreapp2.2\VerificacaoTriangulo.dll
+C:\Users\52850852848\Documents\Desafios\VerificacaoTriangulo\bin\Debug\netcoreapp2.2\VerificacaoTriangulo.pdb
+C:\Users\52850852848\Documents\Desafios\VerificacaoTriangulo\obj\Debug\netcoreapp2.2\VerificacaoTriangulo.dll
+C:\Users\52850852848\Documents\Desafios\VerificacaoTriangulo\obj\Debug\netcoreapp2.2\VerificacaoTriangulo.pdb

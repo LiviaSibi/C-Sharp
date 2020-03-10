@@ -1,0 +1,11 @@
+C:\Users\52850852848\Documents\Desafios\VetorParesImpares\obj\Debug\netcoreapp2.2\VetorParesImpares.csprojAssemblyReference.cache
+C:\Users\52850852848\Documents\Desafios\VetorParesImpares\obj\Debug\netcoreapp2.2\VetorParesImpares.csproj.CoreCompileInputs.cache
+C:\Users\52850852848\Documents\Desafios\VetorParesImpares\obj\Debug\netcoreapp2.2\VetorParesImpares.AssemblyInfoInputs.cache
+C:\Users\52850852848\Documents\Desafios\VetorParesImpares\obj\Debug\netcoreapp2.2\VetorParesImpares.AssemblyInfo.cs
+C:\Users\52850852848\Documents\Desafios\VetorParesImpares\bin\Debug\netcoreapp2.2\VetorParesImpares.deps.json
+C:\Users\52850852848\Documents\Desafios\VetorParesImpares\bin\Debug\netcoreapp2.2\VetorParesImpares.runtimeconfig.json
+C:\Users\52850852848\Documents\Desafios\VetorParesImpares\bin\Debug\netcoreapp2.2\VetorParesImpares.runtimeconfig.dev.json
+C:\Users\52850852848\Documents\Desafios\VetorParesImpares\bin\Debug\netcoreapp2.2\VetorParesImpares.dll
+C:\Users\52850852848\Documents\Desafios\VetorParesImpares\bin\Debug\netcoreapp2.2\VetorParesImpares.pdb
+C:\Users\52850852848\Documents\Desafios\VetorParesImpares\obj\Debug\netcoreapp2.2\VetorParesImpares.dll
+C:\Users\52850852848\Documents\Desafios\VetorParesImpares\obj\Debug\netcoreapp2.2\VetorParesImpares.pdb

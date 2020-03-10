@@ -1,0 +1,10 @@
+C:\Users\ruita\Documents\exercicios\TodoList\bin\Debug\netcoreapp2.1.13\TodoList.deps.json
+C:\Users\ruita\Documents\exercicios\TodoList\bin\Debug\netcoreapp2.1.13\TodoList.runtimeconfig.json
+C:\Users\ruita\Documents\exercicios\TodoList\bin\Debug\netcoreapp2.1.13\TodoList.runtimeconfig.dev.json
+C:\Users\ruita\Documents\exercicios\TodoList\bin\Debug\netcoreapp2.1.13\TodoList.dll
+C:\Users\ruita\Documents\exercicios\TodoList\bin\Debug\netcoreapp2.1.13\TodoList.pdb
+C:\Users\ruita\Documents\exercicios\TodoList\obj\Debug\netcoreapp2.1.13\TodoList.csprojAssemblyReference.cache
+C:\Users\ruita\Documents\exercicios\TodoList\obj\Debug\netcoreapp2.1.13\TodoList.AssemblyInfoInputs.cache
+C:\Users\ruita\Documents\exercicios\TodoList\obj\Debug\netcoreapp2.1.13\TodoList.AssemblyInfo.cs
+C:\Users\ruita\Documents\exercicios\TodoList\obj\Debug\netcoreapp2.1.13\TodoList.dll
+C:\Users\ruita\Documents\exercicios\TodoList\obj\Debug\netcoreapp2.1.13\TodoList.pdb

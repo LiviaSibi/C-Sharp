@@ -1,0 +1,11 @@
+C:\Users\52850852848\Documents\Desafios\AgendaAniversario\bin\Debug\netcoreapp2.2\AgendaAniversario.deps.json
+C:\Users\52850852848\Documents\Desafios\AgendaAniversario\bin\Debug\netcoreapp2.2\AgendaAniversario.runtimeconfig.json
+C:\Users\52850852848\Documents\Desafios\AgendaAniversario\bin\Debug\netcoreapp2.2\AgendaAniversario.runtimeconfig.dev.json
+C:\Users\52850852848\Documents\Desafios\AgendaAniversario\bin\Debug\netcoreapp2.2\AgendaAniversario.dll
+C:\Users\52850852848\Documents\Desafios\AgendaAniversario\bin\Debug\netcoreapp2.2\AgendaAniversario.pdb
+C:\Users\52850852848\Documents\Desafios\AgendaAniversario\obj\Debug\netcoreapp2.2\AgendaAniversario.csprojAssemblyReference.cache
+C:\Users\52850852848\Documents\Desafios\AgendaAniversario\obj\Debug\netcoreapp2.2\AgendaAniversario.csproj.CoreCompileInputs.cache
+C:\Users\52850852848\Documents\Desafios\AgendaAniversario\obj\Debug\netcoreapp2.2\AgendaAniversario.AssemblyInfoInputs.cache
+C:\Users\52850852848\Documents\Desafios\AgendaAniversario\obj\Debug\netcoreapp2.2\AgendaAniversario.AssemblyInfo.cs
+C:\Users\52850852848\Documents\Desafios\AgendaAniversario\obj\Debug\netcoreapp2.2\AgendaAniversario.dll
+C:\Users\52850852848\Documents\Desafios\AgendaAniversario\obj\Debug\netcoreapp2.2\AgendaAniversario.pdb

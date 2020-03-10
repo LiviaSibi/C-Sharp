@@ -1,0 +1,11 @@
+C:\Users\52850852848\Documents\Desafios\TrianguloInverso\obj\Debug\netcoreapp2.2\TrianguloInverso.csprojAssemblyReference.cache
+C:\Users\52850852848\Documents\Desafios\TrianguloInverso\obj\Debug\netcoreapp2.2\TrianguloInverso.csproj.CoreCompileInputs.cache
+C:\Users\52850852848\Documents\Desafios\TrianguloInverso\obj\Debug\netcoreapp2.2\TrianguloInverso.AssemblyInfoInputs.cache
+C:\Users\52850852848\Documents\Desafios\TrianguloInverso\obj\Debug\netcoreapp2.2\TrianguloInverso.AssemblyInfo.cs
+C:\Users\52850852848\Documents\Desafios\TrianguloInverso\bin\Debug\netcoreapp2.2\TrianguloInverso.deps.json
+C:\Users\52850852848\Documents\Desafios\TrianguloInverso\bin\Debug\netcoreapp2.2\TrianguloInverso.runtimeconfig.json
+C:\Users\52850852848\Documents\Desafios\TrianguloInverso\bin\Debug\netcoreapp2.2\TrianguloInverso.runtimeconfig.dev.json
+C:\Users\52850852848\Documents\Desafios\TrianguloInverso\bin\Debug\netcoreapp2.2\TrianguloInverso.dll
+C:\Users\52850852848\Documents\Desafios\TrianguloInverso\bin\Debug\netcoreapp2.2\TrianguloInverso.pdb
+C:\Users\52850852848\Documents\Desafios\TrianguloInverso\obj\Debug\netcoreapp2.2\TrianguloInverso.dll
+C:\Users\52850852848\Documents\Desafios\TrianguloInverso\obj\Debug\netcoreapp2.2\TrianguloInverso.pdb

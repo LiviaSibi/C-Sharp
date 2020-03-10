@@ -1,0 +1,11 @@
+C:\Users\ruita\Documents\Desafios\Combustivel\obj\Debug\netcoreapp3.0\Combustivel.csprojAssemblyReference.cache
+C:\Users\ruita\Documents\Desafios\Combustivel\obj\Debug\netcoreapp3.0\Combustivel.AssemblyInfoInputs.cache
+C:\Users\ruita\Documents\Desafios\Combustivel\obj\Debug\netcoreapp3.0\Combustivel.AssemblyInfo.cs
+C:\Users\ruita\Documents\Desafios\Combustivel\bin\Debug\netcoreapp3.0\Combustivel.exe
+C:\Users\ruita\Documents\Desafios\Combustivel\bin\Debug\netcoreapp3.0\Combustivel.deps.json
+C:\Users\ruita\Documents\Desafios\Combustivel\bin\Debug\netcoreapp3.0\Combustivel.runtimeconfig.json
+C:\Users\ruita\Documents\Desafios\Combustivel\bin\Debug\netcoreapp3.0\Combustivel.runtimeconfig.dev.json
+C:\Users\ruita\Documents\Desafios\Combustivel\bin\Debug\netcoreapp3.0\Combustivel.dll
+C:\Users\ruita\Documents\Desafios\Combustivel\bin\Debug\netcoreapp3.0\Combustivel.pdb
+C:\Users\ruita\Documents\Desafios\Combustivel\obj\Debug\netcoreapp3.0\Combustivel.dll
+C:\Users\ruita\Documents\Desafios\Combustivel\obj\Debug\netcoreapp3.0\Combustivel.pdb

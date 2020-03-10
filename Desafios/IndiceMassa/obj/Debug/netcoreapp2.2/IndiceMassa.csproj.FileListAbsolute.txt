@@ -1,0 +1,11 @@
+C:\Users\52850852848\Documents\Desafios\IndiceMassa\obj\Debug\netcoreapp2.2\IndiceMassa.csprojAssemblyReference.cache
+C:\Users\52850852848\Documents\Desafios\IndiceMassa\obj\Debug\netcoreapp2.2\IndiceMassa.csproj.CoreCompileInputs.cache
+C:\Users\52850852848\Documents\Desafios\IndiceMassa\obj\Debug\netcoreapp2.2\IndiceMassa.AssemblyInfoInputs.cache
+C:\Users\52850852848\Documents\Desafios\IndiceMassa\obj\Debug\netcoreapp2.2\IndiceMassa.AssemblyInfo.cs
+C:\Users\52850852848\Documents\Desafios\IndiceMassa\bin\Debug\netcoreapp2.2\IndiceMassa.deps.json
+C:\Users\52850852848\Documents\Desafios\IndiceMassa\bin\Debug\netcoreapp2.2\IndiceMassa.runtimeconfig.json
+C:\Users\52850852848\Documents\Desafios\IndiceMassa\bin\Debug\netcoreapp2.2\IndiceMassa.runtimeconfig.dev.json
+C:\Users\52850852848\Documents\Desafios\IndiceMassa\bin\Debug\netcoreapp2.2\IndiceMassa.dll
+C:\Users\52850852848\Documents\Desafios\IndiceMassa\bin\Debug\netcoreapp2.2\IndiceMassa.pdb
+C:\Users\52850852848\Documents\Desafios\IndiceMassa\obj\Debug\netcoreapp2.2\IndiceMassa.dll
+C:\Users\52850852848\Documents\Desafios\IndiceMassa\obj\Debug\netcoreapp2.2\IndiceMassa.pdb

@@ -1,0 +1,14 @@
+Calculadora
+
+1)Qual o primeiro numero?
+Saber o primeiro numero
+
+2)Qual o sinal?
+Saber o sinal (+, -, *, /)
+
+3)Qual o segundo numero?
+Saber o segundo numero
+
+Resolver a equação (=)
+
+Dar o resultado

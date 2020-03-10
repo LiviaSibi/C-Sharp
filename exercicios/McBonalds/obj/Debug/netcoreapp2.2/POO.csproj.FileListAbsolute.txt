@@ -1,0 +1,11 @@
+C:\Users\52850852848\Documents\exercicios\McBonalds\obj\Debug\netcoreapp2.2\POO.csprojAssemblyReference.cache
+C:\Users\52850852848\Documents\exercicios\McBonalds\obj\Debug\netcoreapp2.2\POO.csproj.CoreCompileInputs.cache
+C:\Users\52850852848\Documents\exercicios\McBonalds\obj\Debug\netcoreapp2.2\POO.AssemblyInfoInputs.cache
+C:\Users\52850852848\Documents\exercicios\McBonalds\obj\Debug\netcoreapp2.2\POO.AssemblyInfo.cs
+C:\Users\52850852848\Documents\exercicios\McBonalds\bin\Debug\netcoreapp2.2\POO.deps.json
+C:\Users\52850852848\Documents\exercicios\McBonalds\bin\Debug\netcoreapp2.2\POO.runtimeconfig.json
+C:\Users\52850852848\Documents\exercicios\McBonalds\bin\Debug\netcoreapp2.2\POO.runtimeconfig.dev.json
+C:\Users\52850852848\Documents\exercicios\McBonalds\bin\Debug\netcoreapp2.2\POO.dll
+C:\Users\52850852848\Documents\exercicios\McBonalds\bin\Debug\netcoreapp2.2\POO.pdb
+C:\Users\52850852848\Documents\exercicios\McBonalds\obj\Debug\netcoreapp2.2\POO.dll
+C:\Users\52850852848\Documents\exercicios\McBonalds\obj\Debug\netcoreapp2.2\POO.pdb

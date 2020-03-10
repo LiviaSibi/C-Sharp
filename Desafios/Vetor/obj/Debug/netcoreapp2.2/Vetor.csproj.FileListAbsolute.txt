@@ -1,0 +1,11 @@
+C:\Users\52850852848\Documents\Desafios\Vetor\obj\Debug\netcoreapp2.2\Vetor.csprojAssemblyReference.cache
+C:\Users\52850852848\Documents\Desafios\Vetor\obj\Debug\netcoreapp2.2\Vetor.csproj.CoreCompileInputs.cache
+C:\Users\52850852848\Documents\Desafios\Vetor\obj\Debug\netcoreapp2.2\Vetor.AssemblyInfoInputs.cache
+C:\Users\52850852848\Documents\Desafios\Vetor\obj\Debug\netcoreapp2.2\Vetor.AssemblyInfo.cs
+C:\Users\52850852848\Documents\Desafios\Vetor\bin\Debug\netcoreapp2.2\Vetor.deps.json
+C:\Users\52850852848\Documents\Desafios\Vetor\bin\Debug\netcoreapp2.2\Vetor.runtimeconfig.json
+C:\Users\52850852848\Documents\Desafios\Vetor\bin\Debug\netcoreapp2.2\Vetor.runtimeconfig.dev.json
+C:\Users\52850852848\Documents\Desafios\Vetor\bin\Debug\netcoreapp2.2\Vetor.dll
+C:\Users\52850852848\Documents\Desafios\Vetor\bin\Debug\netcoreapp2.2\Vetor.pdb
+C:\Users\52850852848\Documents\Desafios\Vetor\obj\Debug\netcoreapp2.2\Vetor.dll
+C:\Users\52850852848\Documents\Desafios\Vetor\obj\Debug\netcoreapp2.2\Vetor.pdb

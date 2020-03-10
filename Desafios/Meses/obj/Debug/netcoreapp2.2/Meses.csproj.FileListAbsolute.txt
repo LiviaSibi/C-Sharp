@@ -1,0 +1,11 @@
+C:\Users\52850852848\Documents\Desafios\Meses\obj\Debug\netcoreapp2.2\Meses.csprojAssemblyReference.cache
+C:\Users\52850852848\Documents\Desafios\Meses\obj\Debug\netcoreapp2.2\Meses.csproj.CoreCompileInputs.cache
+C:\Users\52850852848\Documents\Desafios\Meses\obj\Debug\netcoreapp2.2\Meses.AssemblyInfoInputs.cache
+C:\Users\52850852848\Documents\Desafios\Meses\obj\Debug\netcoreapp2.2\Meses.AssemblyInfo.cs
+C:\Users\52850852848\Documents\Desafios\Meses\bin\Debug\netcoreapp2.2\Meses.deps.json
+C:\Users\52850852848\Documents\Desafios\Meses\bin\Debug\netcoreapp2.2\Meses.runtimeconfig.json
+C:\Users\52850852848\Documents\Desafios\Meses\bin\Debug\netcoreapp2.2\Meses.runtimeconfig.dev.json
+C:\Users\52850852848\Documents\Desafios\Meses\bin\Debug\netcoreapp2.2\Meses.dll
+C:\Users\52850852848\Documents\Desafios\Meses\bin\Debug\netcoreapp2.2\Meses.pdb
+C:\Users\52850852848\Documents\Desafios\Meses\obj\Debug\netcoreapp2.2\Meses.dll
+C:\Users\52850852848\Documents\Desafios\Meses\obj\Debug\netcoreapp2.2\Meses.pdb

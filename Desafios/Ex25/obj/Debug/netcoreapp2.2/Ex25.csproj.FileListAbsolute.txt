@@ -1,0 +1,11 @@
+C:\Users\52850852848\Documents\Desafios\Ex25\bin\Debug\netcoreapp2.2\Ex25.deps.json
+C:\Users\52850852848\Documents\Desafios\Ex25\bin\Debug\netcoreapp2.2\Ex25.runtimeconfig.json
+C:\Users\52850852848\Documents\Desafios\Ex25\bin\Debug\netcoreapp2.2\Ex25.runtimeconfig.dev.json
+C:\Users\52850852848\Documents\Desafios\Ex25\bin\Debug\netcoreapp2.2\Ex25.dll
+C:\Users\52850852848\Documents\Desafios\Ex25\bin\Debug\netcoreapp2.2\Ex25.pdb
+C:\Users\52850852848\Documents\Desafios\Ex25\obj\Debug\netcoreapp2.2\Ex25.csprojAssemblyReference.cache
+C:\Users\52850852848\Documents\Desafios\Ex25\obj\Debug\netcoreapp2.2\Ex25.csproj.CoreCompileInputs.cache
+C:\Users\52850852848\Documents\Desafios\Ex25\obj\Debug\netcoreapp2.2\Ex25.AssemblyInfoInputs.cache
+C:\Users\52850852848\Documents\Desafios\Ex25\obj\Debug\netcoreapp2.2\Ex25.AssemblyInfo.cs
+C:\Users\52850852848\Documents\Desafios\Ex25\obj\Debug\netcoreapp2.2\Ex25.dll
+C:\Users\52850852848\Documents\Desafios\Ex25\obj\Debug\netcoreapp2.2\Ex25.pdb

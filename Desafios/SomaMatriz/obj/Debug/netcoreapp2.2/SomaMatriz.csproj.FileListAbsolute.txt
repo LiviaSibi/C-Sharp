@@ -1,0 +1,11 @@
+C:\Users\52850852848\Documents\Desafios\SomaMatriz\obj\Debug\netcoreapp2.2\SomaMatriz.csprojAssemblyReference.cache
+C:\Users\52850852848\Documents\Desafios\SomaMatriz\obj\Debug\netcoreapp2.2\SomaMatriz.csproj.CoreCompileInputs.cache
+C:\Users\52850852848\Documents\Desafios\SomaMatriz\obj\Debug\netcoreapp2.2\SomaMatriz.AssemblyInfoInputs.cache
+C:\Users\52850852848\Documents\Desafios\SomaMatriz\obj\Debug\netcoreapp2.2\SomaMatriz.AssemblyInfo.cs
+C:\Users\52850852848\Documents\Desafios\SomaMatriz\bin\Debug\netcoreapp2.2\SomaMatriz.deps.json
+C:\Users\52850852848\Documents\Desafios\SomaMatriz\bin\Debug\netcoreapp2.2\SomaMatriz.runtimeconfig.json
+C:\Users\52850852848\Documents\Desafios\SomaMatriz\bin\Debug\netcoreapp2.2\SomaMatriz.runtimeconfig.dev.json
+C:\Users\52850852848\Documents\Desafios\SomaMatriz\bin\Debug\netcoreapp2.2\SomaMatriz.dll
+C:\Users\52850852848\Documents\Desafios\SomaMatriz\bin\Debug\netcoreapp2.2\SomaMatriz.pdb
+C:\Users\52850852848\Documents\Desafios\SomaMatriz\obj\Debug\netcoreapp2.2\SomaMatriz.dll
+C:\Users\52850852848\Documents\Desafios\SomaMatriz\obj\Debug\netcoreapp2.2\SomaMatriz.pdb

@@ -1,0 +1,11 @@
+C:\Users\ruita\Documents\Desafios\Temperatura\bin\Debug\netcoreapp3.0\Temperatura.exe
+C:\Users\ruita\Documents\Desafios\Temperatura\bin\Debug\netcoreapp3.0\Temperatura.deps.json
+C:\Users\ruita\Documents\Desafios\Temperatura\bin\Debug\netcoreapp3.0\Temperatura.runtimeconfig.json
+C:\Users\ruita\Documents\Desafios\Temperatura\bin\Debug\netcoreapp3.0\Temperatura.runtimeconfig.dev.json
+C:\Users\ruita\Documents\Desafios\Temperatura\bin\Debug\netcoreapp3.0\Temperatura.dll
+C:\Users\ruita\Documents\Desafios\Temperatura\bin\Debug\netcoreapp3.0\Temperatura.pdb
+C:\Users\ruita\Documents\Desafios\Temperatura\obj\Debug\netcoreapp3.0\Temperatura.csprojAssemblyReference.cache
+C:\Users\ruita\Documents\Desafios\Temperatura\obj\Debug\netcoreapp3.0\Temperatura.AssemblyInfoInputs.cache
+C:\Users\ruita\Documents\Desafios\Temperatura\obj\Debug\netcoreapp3.0\Temperatura.AssemblyInfo.cs
+C:\Users\ruita\Documents\Desafios\Temperatura\obj\Debug\netcoreapp3.0\Temperatura.dll
+C:\Users\ruita\Documents\Desafios\Temperatura\obj\Debug\netcoreapp3.0\Temperatura.pdb

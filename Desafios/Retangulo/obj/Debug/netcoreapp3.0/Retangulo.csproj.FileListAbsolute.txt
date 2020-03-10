@@ -1,0 +1,11 @@
+C:\Users\ruita\Documents\Desafios\Retangulo\bin\Debug\netcoreapp3.0\Retangulo.exe
+C:\Users\ruita\Documents\Desafios\Retangulo\bin\Debug\netcoreapp3.0\Retangulo.deps.json
+C:\Users\ruita\Documents\Desafios\Retangulo\bin\Debug\netcoreapp3.0\Retangulo.runtimeconfig.json
+C:\Users\ruita\Documents\Desafios\Retangulo\bin\Debug\netcoreapp3.0\Retangulo.runtimeconfig.dev.json
+C:\Users\ruita\Documents\Desafios\Retangulo\bin\Debug\netcoreapp3.0\Retangulo.dll
+C:\Users\ruita\Documents\Desafios\Retangulo\bin\Debug\netcoreapp3.0\Retangulo.pdb
+C:\Users\ruita\Documents\Desafios\Retangulo\obj\Debug\netcoreapp3.0\Retangulo.csprojAssemblyReference.cache
+C:\Users\ruita\Documents\Desafios\Retangulo\obj\Debug\netcoreapp3.0\Retangulo.AssemblyInfoInputs.cache
+C:\Users\ruita\Documents\Desafios\Retangulo\obj\Debug\netcoreapp3.0\Retangulo.AssemblyInfo.cs
+C:\Users\ruita\Documents\Desafios\Retangulo\obj\Debug\netcoreapp3.0\Retangulo.dll
+C:\Users\ruita\Documents\Desafios\Retangulo\obj\Debug\netcoreapp3.0\Retangulo.pdb

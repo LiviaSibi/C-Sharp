@@ -1,0 +1,11 @@
+C:\Users\52850852848\Documents\Desafios\QuantosNomes\obj\Debug\netcoreapp2.2\QuantosNomes.csprojAssemblyReference.cache
+C:\Users\52850852848\Documents\Desafios\QuantosNomes\obj\Debug\netcoreapp2.2\QuantosNomes.csproj.CoreCompileInputs.cache
+C:\Users\52850852848\Documents\Desafios\QuantosNomes\obj\Debug\netcoreapp2.2\QuantosNomes.AssemblyInfoInputs.cache
+C:\Users\52850852848\Documents\Desafios\QuantosNomes\obj\Debug\netcoreapp2.2\QuantosNomes.AssemblyInfo.cs
+C:\Users\52850852848\Documents\Desafios\QuantosNomes\bin\Debug\netcoreapp2.2\QuantosNomes.deps.json
+C:\Users\52850852848\Documents\Desafios\QuantosNomes\bin\Debug\netcoreapp2.2\QuantosNomes.runtimeconfig.json
+C:\Users\52850852848\Documents\Desafios\QuantosNomes\bin\Debug\netcoreapp2.2\QuantosNomes.runtimeconfig.dev.json
+C:\Users\52850852848\Documents\Desafios\QuantosNomes\bin\Debug\netcoreapp2.2\QuantosNomes.dll
+C:\Users\52850852848\Documents\Desafios\QuantosNomes\bin\Debug\netcoreapp2.2\QuantosNomes.pdb
+C:\Users\52850852848\Documents\Desafios\QuantosNomes\obj\Debug\netcoreapp2.2\QuantosNomes.dll
+C:\Users\52850852848\Documents\Desafios\QuantosNomes\obj\Debug\netcoreapp2.2\QuantosNomes.pdb

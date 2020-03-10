@@ -1,0 +1,11 @@
+C:\Users\52850852848\Documents\Desafios\LimiteImpares\bin\Debug\netcoreapp2.2\LimiteImpares.deps.json
+C:\Users\52850852848\Documents\Desafios\LimiteImpares\bin\Debug\netcoreapp2.2\LimiteImpares.runtimeconfig.json
+C:\Users\52850852848\Documents\Desafios\LimiteImpares\bin\Debug\netcoreapp2.2\LimiteImpares.runtimeconfig.dev.json
+C:\Users\52850852848\Documents\Desafios\LimiteImpares\bin\Debug\netcoreapp2.2\LimiteImpares.dll
+C:\Users\52850852848\Documents\Desafios\LimiteImpares\bin\Debug\netcoreapp2.2\LimiteImpares.pdb
+C:\Users\52850852848\Documents\Desafios\LimiteImpares\obj\Debug\netcoreapp2.2\LimiteImpares.csprojAssemblyReference.cache
+C:\Users\52850852848\Documents\Desafios\LimiteImpares\obj\Debug\netcoreapp2.2\LimiteImpares.csproj.CoreCompileInputs.cache
+C:\Users\52850852848\Documents\Desafios\LimiteImpares\obj\Debug\netcoreapp2.2\LimiteImpares.AssemblyInfoInputs.cache
+C:\Users\52850852848\Documents\Desafios\LimiteImpares\obj\Debug\netcoreapp2.2\LimiteImpares.AssemblyInfo.cs
+C:\Users\52850852848\Documents\Desafios\LimiteImpares\obj\Debug\netcoreapp2.2\LimiteImpares.dll
+C:\Users\52850852848\Documents\Desafios\LimiteImpares\obj\Debug\netcoreapp2.2\LimiteImpares.pdb

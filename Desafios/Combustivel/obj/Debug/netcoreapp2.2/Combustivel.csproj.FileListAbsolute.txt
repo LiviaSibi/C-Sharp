@@ -1,0 +1,11 @@
+C:\Users\52850852848\Documents\Desafios\Combustivel\bin\Debug\netcoreapp2.2\Combustivel.deps.json
+C:\Users\52850852848\Documents\Desafios\Combustivel\bin\Debug\netcoreapp2.2\Combustivel.runtimeconfig.json
+C:\Users\52850852848\Documents\Desafios\Combustivel\bin\Debug\netcoreapp2.2\Combustivel.runtimeconfig.dev.json
+C:\Users\52850852848\Documents\Desafios\Combustivel\bin\Debug\netcoreapp2.2\Combustivel.dll
+C:\Users\52850852848\Documents\Desafios\Combustivel\bin\Debug\netcoreapp2.2\Combustivel.pdb
+C:\Users\52850852848\Documents\Desafios\Combustivel\obj\Debug\netcoreapp2.2\Combustivel.csprojAssemblyReference.cache
+C:\Users\52850852848\Documents\Desafios\Combustivel\obj\Debug\netcoreapp2.2\Combustivel.csproj.CoreCompileInputs.cache
+C:\Users\52850852848\Documents\Desafios\Combustivel\obj\Debug\netcoreapp2.2\Combustivel.AssemblyInfoInputs.cache
+C:\Users\52850852848\Documents\Desafios\Combustivel\obj\Debug\netcoreapp2.2\Combustivel.AssemblyInfo.cs
+C:\Users\52850852848\Documents\Desafios\Combustivel\obj\Debug\netcoreapp2.2\Combustivel.dll
+C:\Users\52850852848\Documents\Desafios\Combustivel\obj\Debug\netcoreapp2.2\Combustivel.pdb
